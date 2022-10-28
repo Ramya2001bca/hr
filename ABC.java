@@ -3,7 +3,7 @@ public class ABC{
 int age=18;
 
 public int getAge(){
-
+this.age;
 System.out.println(age);
 return age;
 
